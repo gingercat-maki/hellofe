@@ -1,0 +1,46 @@
+
+h1 {
+     color: #271ACF;
+     text-align: center;
+     text-shadow: 3px 3px 1px #A7A3DF;
+     font-size: 50px;
+}
+
+#main-part {
+    padding-left: 35%
+}
+
+p {
+     color: #271ACF;
+     font-size: 15px;
+}
+
+
+
+html {
+    background-color: rgba(171, 246, 209, 0.5);
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 15px;
+  width: 450px;
+  height: 450px;
+}
+
+form#welcome {
+     font-style: italic;
+     color: grey;
+     text-align: right;
+     font-size: 12px;
+}
+
+#welcome-old {
+     text-align: center;
+     color: #3a7bf2;
+     font-size: 18px;
+}
+
