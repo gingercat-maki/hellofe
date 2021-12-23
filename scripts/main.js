@@ -1,4 +1,5 @@
-
+import logo1 from '../images/lark-logo.jpeg'
+import logo2 from '../images/lark-logo-v2.jpeg'
 
 // title, main-pic logic
 let titleToggle = true
@@ -6,7 +7,7 @@ let titleEn = "LARK is amazing!"
 let titleCn = "飞书, 做的很不错!"
 
 let picToggle = true
-let mainPics = ["images/lark-logo.jpeg", "images/lark-logo-v2.jpeg"]
+let mainPics = [logo1, logo2]
 let picId = "main-pic"
 let attributeName = "src"
 

@@ -6,6 +6,6 @@
         "build": "parcel build"
     },
     "devDependencies": {
-        "parcel": "latest"
+        "parcel": "^2.0.1"
     }
 }
